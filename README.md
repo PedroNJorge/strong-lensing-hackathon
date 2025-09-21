@@ -21,7 +21,6 @@ The model achieved state-of-the-art performance on the validation set:
 | Weighted Precision     | 0.984   |
 | Weighted Recall        | 0.984   |
 
-ROC Curve:
 ![ROC Curve](images/roc_curve.png)
 
 ## Technical Implementation
